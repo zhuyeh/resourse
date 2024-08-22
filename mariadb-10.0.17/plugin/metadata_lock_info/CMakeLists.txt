@@ -1,2 +1,0 @@
-SET(METADATA_LOCK_INFO_SOURCES metadata_lock_info.cc)
-MYSQL_ADD_PLUGIN(metadata_lock_info ${METADATA_LOCK_INFO_SOURCES} MODULE_OUTPUT_NAME "metadata_lock_info")
